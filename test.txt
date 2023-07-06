@@ -1,2 +1,3 @@
 Hello,git!master_test
+Hello,git!hot-fix_test
 Hello,vscode!

@@ -1,1 +1,4 @@
 Hello,myGitTest!
+Hello,myGitTest!2
+Hello,myGitTest!
+Hello,myGitTest!2
